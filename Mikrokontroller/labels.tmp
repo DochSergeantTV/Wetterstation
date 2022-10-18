@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.41</VERSION>
+ <DEVICE>ATmega8</DEVICE>
+ <WORKING_DIR>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <conf><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>86</LINE></conf>
+  <manuell_interrupt><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>208</LINE></manuell_interrupt>
+  <automatik_interrupt><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>215</LINE></automatik_interrupt>
+  <Notfall><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>231</LINE></Notfall>
+  <Recieve><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>222</LINE></Recieve>
+  <main><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>193</LINE></main>
+  <manuell><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>243</LINE></manuell>
+  <automatik><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>317</LINE></automatik>
+  <manuell_pruefe><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>276</LINE></manuell_pruefe>
+  <manuell_senden><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>300</LINE></manuell_senden>
+  <counter><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>370</LINE></counter>
+  <temperatur><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>353</LINE></temperatur>
+  <schleife><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>439</LINE></schleife>
+  <messung><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>357</LINE></messung>
+  <senden><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>390</LINE></senden>
+  <senden1><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>394</LINE></senden1>
+  <senden2><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>408</LINE></senden2>
+  <senden3><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>420</LINE></senden3>
+  <loop6><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>452</LINE></loop6>
+  <loop5><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>454</LINE></loop5>
+  <loop4><FILE>C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm</FILE><LINE>456</LINE></loop4>
+ </LABELS>
+</ASSEMBLER_INFO>

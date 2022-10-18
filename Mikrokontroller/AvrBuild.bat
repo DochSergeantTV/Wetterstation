@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\labels.tmp" -fI -W+ie -o "C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.hex" -d "C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.obj" -e "C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.eep" -m "C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.map" "C:\Users\joshu\Desktop\Wetterstation\Mikrokontroller\Wetterstation.asm"
